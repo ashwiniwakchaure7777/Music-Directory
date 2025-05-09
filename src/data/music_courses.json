@@ -1,0 +1,104 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano Basics",
+        "slug": "piano-basics",
+        "description": "Start your piano journey with this beginner-friendly course.",
+        "price": 89.99,
+        "instructor": "Emily Brown",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Drum Mastery",
+        "slug": "drum-mastery",
+        "description": "Advance your drumming skills with this expert-led course.",
+        "price": 129.99,
+        "instructor": "Mike Wilson",
+        "isFeatured": true,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Violin Essentials",
+        "slug": "violin-essentials",
+        "description": "Discover the fundamentals of violin playing in this course.",
+        "price": 109.99,
+        "instructor": "Sarah Lee",
+        "isFeatured": false,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Flute for Beginners",
+        "slug": "flute-for-beginners",
+        "description": "Learn to play the flute with our step-by-step beginner course.",
+        "price": 79.99,
+        "instructor": "David Kim",
+        "isFeatured": false,
+        "image": "/courses/flute.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Saxophone Skills",
+        "slug": "saxophone-skills",
+        "description": "Master the saxophone with this intermediate course.",
+        "price": 119.99,
+        "instructor": "Lisa Green",
+        "isFeatured": true,
+        "image": "/courses/saxophone.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Ukulele Fun",
+        "slug": "ukulele-fun",
+        "description": "Have fun learning the ukulele with this engaging course.",
+        "price": 69.99,
+        "instructor": "Tom Harris",
+        "isFeatured": false,
+        "image": "/courses/ukulele.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Bass Guitar Basics",
+        "slug": "bass-guitar-basics",
+        "description": "Get started with bass guitar in this beginner course.",
+        "price": 99.99,
+        "instructor": "Rachel Moore",
+        "isFeatured": true,
+        "image": "/courses/bass-guitar.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Harmonica 101",
+        "slug": "harmonica-101",
+        "description": "Learn the harmonica with this introductory course.",
+        "price": 59.99,
+        "instructor": "Chris Evans",
+        "isFeatured": false,
+        "image": "/courses/harmonica.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Take your guitar skills to the next level with this advanced course.",
+        "price": 149.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/advanced-guitar.jpg"
+      }
+    ]
+  }
