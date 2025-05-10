@@ -2,8 +2,6 @@
 import React from "react";
 import { motion } from "motion/react";
 
-
-
 const transition = {
   type: "spring",
   mass: 0.5,
@@ -32,7 +30,7 @@ export const MenuItem = ({
       >
         {item}
       </motion.p>
-      {active !== null && (
+      {active !== null && children && (
         <motion.div
           initial={{ opacity: 0, scale: 0.85, y: 10 }}
           animate={{ opacity: 1, scale: 1, y: 0 }}
